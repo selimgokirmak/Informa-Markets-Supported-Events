@@ -26,17 +26,17 @@ Supports multiple **Informa Markets** exhibition websites with a consistent HTML
 
 - [Map Your Show Exhibitor List Scraper](https://apify.com/skython/map-your-show-exhibitor-list-scraper)
 
-- [Messe Duesseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
+- [Messe Düsseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
 
 - [Xporience Exhibitor List Scraper](https://apify.com/skython/xporience-exhibitor-list-scraper)
 
 - [Reed Expo Exhibitor List Scraper](https://apify.com/skython/reed-expo-exhibitor-list-scraper)
 
-- [Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
+- [Messe München Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
 
 - [Xporience Exhibitor List Scraper V2](https://apify.com/skython/xporience-exhibitor-list-scraper-2)
 
-- [Nuernberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
+- [Nürnberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
 
 - [GSMA MWC Exhibitor List Scraper](https://apify.com/skython/gsma-mwc-exhibitor-list-scraper)
 
@@ -54,6 +54,8 @@ Supports multiple **Informa Markets** exhibition websites with a consistent HTML
 
 - [A2Z Events Exhibitor List Scraper](https://apify.com/skython/a2z-events-exhibitor-list-scraper)
 
+- [Deutsche Messe Exhibitor List Scraper](https://apify.com/skython/deutsche-messe-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
@@ -69,6 +71,12 @@ Supports multiple **Informa Markets** exhibition websites with a consistent HTML
 **Note:** *The following partial list includes Informa Markets exhibitor directory URLs that have been tested so far. Other Informa Markets or different events with the same website structure may also be supported.*
 
 ### 2026
+
+- [World Health Expo (WHX) Miami 2026 Exhibitor List – worldhealthexpo.com](https://www.worldhealthexpo.com/events/healthcare/miami/en/attend/exhibitor-list.html)
+
+- [World Health Expo (WHX) Miami 2026 Exhibitor List – app.swapcard.com/event/whx-miami-2026-1](https://app.swapcard.com/event/whx-miami-2026-1/exhibitors/RXZlbnRWaWV3XzEyNjc1NzM=)
+
+- [Vitafoods Europe 2026 Exhibitor List – visitor.vitafoodsglobal.com/event/vitafoods-europe-2026](https://visitor.vitafoodsglobal.com/event/vitafoods-europe-2026/exhibitors/RXZlbnRWaWV3XzEyNDIzNjc=)
 
 - [Natural Products Expo West 2026 Exhibitor List – expowest.com](https://www.expowest.com/en/exhibitor-list/2026-exhibitor-list.html)
 
@@ -139,6 +147,8 @@ Supports multiple **Informa Markets** exhibition websites with a consistent HTML
 - [Middle East Energy 2026 Exhibitor List – attend.imenergy.virtual.informamarkets.com/event/middle-east-energy-2026-1](https://attend.imenergy.virtual.informamarkets.com/event/middle-east-energy-2026-1/exhibitors/RXZlbnRWaWV3XzEyMzY3NTU=)
 
 - [Fi South America 2026 Exhibitor List – visitor.figlobal.com/event/fi-south-america-2026](https://visitor.figlobal.com/event/fi-south-america-2026/exhibitors/RXZlbnRWaWV3XzEyMzQ1Mzk=)
+
+- [Fi South America 2026 Exhibitor List – figlobal.com/south-america](https://www.figlobal.com/south-america/exhibitor-list/)
 
 
 ### 2025
