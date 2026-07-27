@@ -76,9 +76,9 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 
 ## Supported Informa Markets Events (Exhibitor Lists)
 
-- The following partial list includes Informa Markets exhibitor directory URLs that have been tested so far. Other Informa Markets events or different events with the same website structure may also be supported.
+> The following partial list includes Informa Markets exhibitor directory URLs that have been tested so far. Other Informa Markets events or different events with the same website structure may also be supported.
 
-- Some event URLs may have been updated or canceled entirely; please check them before using.
+> Some event URLs may have been updated or canceled entirely; please check them before using.
 
 ### 2026
 
