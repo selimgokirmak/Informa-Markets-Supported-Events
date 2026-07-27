@@ -16,7 +16,7 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 
 - [Supported Website Structure](#supported-website-structure)
 
-- [Supported Koelnmesse Events (Exhibitor Lists)](#supported-koelnmesse-events-exhibitor-lists)
+- [Supported Informa Markets Events (Exhibitor Lists)](#supported-informa-markets-events-exhibitor-lists)
 
 - [Testing Exhibitor List URLs](#testing-exhibitor-list-urls-for-free)
 
